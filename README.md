@@ -1,6 +1,6 @@
-# <img width="22px" src="https://ltmeat.bypassi.com/img/icon.png"> LTMEAT</img>
+# <img width="22px" src="https://ltmeat.bypassi.com/img/icon.png"> LTMEAT
 Web version of LTMEAT, another exploit discovered by Bypassi#7037 to bypass admin-forced extensions on managed Chromebooks.
-# <img width="500px" src="https://github.com/AshtonDavies/LTMEAT/blob/main/screenshot.png?raw=true"></img>
+# <img width="500px" src="https://github.com/AshtonDavies/LTMEAT/blob/main/screenshot.png?raw=true">
 # Patched
 LTMEAT was patched in <b>Chrome OS 115</b> on May 23, 2023 (dev).
 <p>
@@ -20,7 +20,7 @@ Many Chrome debug commands such as <em>chrome://kill</em> and <em>chrome://hang<
 # How to Use
 Done similar to the official instructions. If stuck, click the buttons for help messages or read the official documentation.
 
-<img width="500px" src="https://github.com/AshtonDavies/LTMEAT/blob/main/tutorial.gif?raw=true"></img>
+<img width="500px" src="https://github.com/AshtonDavies/LTMEAT/blob/main/tutorial.gif?raw=true">
 
 # About
 Designed to be a simple, pre-setup place to activate LTMEAT without the use of bookmarks or manifest pages. Contains common web filter links to drag and drop.
